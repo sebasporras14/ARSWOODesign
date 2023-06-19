@@ -1,4 +1,4 @@
-# INTRODUCTION TO JAVA, MVN, AND GIT: LOC Counting
+# OO Design
 
 this project we used all the knowledge in java, mvn and git to build a code able to calculate the average and standard deviation of a file that contains numbers.To make it possible, the program will read the numbers of the file and add it to a linked list implemented and will iterate node by node getting the data, acumulating and doing the respective calculations.
 ## Design 
