@@ -7,14 +7,14 @@ this project we used all the knowledge in java, mvn and git to build a code able
 
 this diagram shows how the classes use each other. This time OODesign is the main class which will be using the reader and stats(class made to calculate the standard deviation and the average). Reader will use the implementation of Linked List where it is going to contain nodes which cointain the data. for the implemetation of some methods required for the funcionality of LinkedList it's necessary the usage of the class LinkedListIterator wich implements the iterator inteface.
 
-![class diagram](https://github.com/sebasporras14/ARSWloc/blob/master/images/Clases.png)
+![class diagram](https://github.com/sebasporras14/ARSWOODesign/blob/master/images/Clases.png)
 
 
 ## Running the tests
 
 we run the taste made to check the functionality of the methods done and got the result:
 
-![test report](https://github.com/sebasporras14/ARSWloc/blob/master/images/testReport.png)
+![test report](https://github.com/sebasporras14/ARSWOODesign/blob/master/images/testReport.png)
 
 ### Example running by console:
 
